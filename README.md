@@ -33,3 +33,7 @@ Download the Helper file and use it
 							e.printStackTrace()
 					}      
 
+
+--------------------------------------------
+here's the link where I found this awesome solution 
+https://stackoverflow.com/questions/54628972/how-to-generate-qr-code-with-image-overlay-in-gluon/59096327#59096327
